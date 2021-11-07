@@ -3,6 +3,7 @@
 welcome to this astroids like project
 Title: Space Strudell Shooters
 project start 11/7/21 12:30 pm
+Solo Development -Quinton Thuet
 
 Problems:
 -collision not working
