@@ -5,6 +5,8 @@ Title: Space Strudell Shooters
 project start 11/7/21 12:30 pm
 Solo Development -Quinton Thuet
 
+I have no clue if everything I wanted to push to this git hub even pushed it says it did but I doubt it
+
 Problems:
 -collision not working
 -no main screen
